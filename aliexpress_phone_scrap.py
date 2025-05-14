@@ -1,5 +1,5 @@
 from playwright.sync_api import sync_playwright
-import csv
+import json
 
 with sync_playwright() as p:
     browser = p.chromium.launch(headless=True)
@@ -50,11 +50,8 @@ with sync_playwright() as p:
 
         # print(f"Product No: {i+1} of {len(products)}\nSite link: {link}\nImage: {image}\nTitle: {title}\nPrice: {price}\nRating: {rating}\nSold: {sold}\nHint: {hint}\n")      
 
-    with open("scraped_products.csv", "w", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f)
-        writer.writerow(['Link', 'Image', 'Title', 'Price', 'Rating', 'Sold', 'Hint'])
-        for product in scraped_products:
-            writer.writerow([product["link"], product['image'], product['title'], product['price'], product['rating'], product['sold'], product['hint']])
+    with open("scraped_products.json", "w", encoding="utf-8") as f:
+       json.dump(scraped_products, f, ensure_ascii=False, indent=4)
 
     print("DONE...!")
     browser.close()
