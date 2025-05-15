@@ -50,7 +50,7 @@ with sync_playwright() as p:
 
         # print(f"Product No: {i+1} of {len(products)}\nSite link: {link}\nImage: {image}\nTitle: {title}\nPrice: {price}\nRating: {rating}\nSold: {sold}\nHint: {hint}\n")      
 
-    with open("scraped_products.json", "w", encoding="utf-8") as f:
+    with open("scraped/scraped_products.json", "w", encoding="utf-8") as f:
        json.dump(scraped_products, f, ensure_ascii=False, indent=4)
 
     print("DONE...!")
