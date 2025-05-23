@@ -4,7 +4,7 @@ from playwright.sync_api import sync_playwright
 user_data_dir = os.path.expanduser("~/.playwright_profile/chrome")
 
 with sync_playwright() as p:
-    browser = p.chromium.launch_persistent_context(user_data_dir=user_data_dir, headless=False, viewport={"width": 1920, "height": 1080})
+    browser = p.chromium.launch_persistent_context(user_data_dir=user_data_dir, headless=True, viewport={"width": 1920, "height": 1080})
     page = browser.new_page()
     page.goto(
         "https://www.linkedin.com/jobs",
@@ -59,19 +59,22 @@ with sync_playwright() as p:
         title = job.locator(".artdeco-entity-lockup__title").inner_text()
         company = job.locator(".artdeco-entity-lockup__subtitle").inner_text()
         location = job.locator(".artdeco-entity-lockup__caption").inner_text()
+        image = job.locator(".job-card-list__logo img").get_attribute('src')
         link_element = job.locator(".artdeco-entity-lockup__title a")
-        image_element = job.locator(".job-card-list__logo img")
 
         raw_link_id = link_element.get_attribute('href').split("/")[3]
         link = f"https://www.linkedin.com/jobs/view/{raw_link_id}"
-        image = f"{image_element.get_attribute('src')}"
+
+        link_element.click()
+        details = page.locator("div[id='job-details']").inner_text()
 
         scrapped_jobs.append({
             "title": title,
             "company": company,
             "location": location,
             "link": link,
-            "image": image
+            "image": image,
+            "details": details
         })
 
     with open("scraped/jobs.json", "w", encoding="utf-8") as f:

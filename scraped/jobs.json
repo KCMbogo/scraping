@@ -1,177 +1,58 @@
 [
     {
-        "title": "Junior Python Developer - Remote\nJunior Python Developer - Remote",
-        "company": "INDI Staffing Services",
-        "location": "Latin America (Remote)",
-        "link": "https://www.linkedin.com/jobs/view/4234493987",
-        "image": "https://media.licdn.com/dms/image/v2/D560BAQErXjIzfHesyQ/company-logo_100_100/company-logo_100_100/0/1666898446316/indi_staffing_services_logo?e=1753315200&v=beta&t=5cncnE0GnZ74jjjGtHmeVbq_2alAP5bheMW3Wp5M2ew"
+        "title": "First Round's On Me | Software Engineering Intern (Python/Django)\nFirst Round's On Me | Software Engineering Intern (Python/Django)",
+        "company": "First Round's On Me",
+        "location": "United States (Remote)",
+        "link": "https://www.linkedin.com/jobs/view/4233053228",
+        "image": "https://media.licdn.com/dms/image/v2/D4E0BAQHsqLkXg95B4A/company-logo_100_100/company-logo_100_100/0/1719028927002/firstroundsonme_logo?e=1753315200&v=beta&t=0-Z2knQUDnOeulwRok0wdYZ19NVaxwTebqaLNtGFiuY",
+        "details": "About the job\n\nCompany Overview:\n\nFirst Rounds on Me is a revolutionary dating app designed for modern singles who are tired of the frustrations of today's dating scene. The app focuses on helping users plan dates and build genuine connections by requiring them to match with others by planning a date with a date, time, and location. It allows users to chat with their date only 24 hours before the date, encouraging \"getting to know each other\" in real life (IRL). The founder, Joe Feminella, describes the app as a transformative movement redefining connection, aiming to cultivate a community where people embrace diversity and genuine connections over the 'like-minded' criteria.\n\n\n\n\nFirst Round’s on Me is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.\n\n\n\n\nLocations: New York, NY, Los Angeles, CA, Austin, TX, Boston, MA, Remote\n\n\n\n\nPosition Overview: \n\nWe are looking for a Software Engineering Intern (Python/Django) to join our technology team for a 3-month internship. You’ll help us build and scale real-world backend systems that power our dating platform. This is a hands-on role where you’ll gain experience working on production systems, writing scalable code, and contributing meaningfully to a fast-moving startup. High performers may be considered for co-op extensions or full-time roles.\n\n\n\n\nResponsibilities:\n\nDevelop and maintain backend services and APIs using Python and Django.\nCollaborate with frontend and mobile engineers to ensure seamless integrations.\nWrite clean, maintainable, and efficient code.\nParticipate in pair programming, code reviews, and agile standups.\nContribute to the scalability, reliability, and security of our backend architecture.\nEngage in real-world problem solving and system design discussions.\n\n\n\n\nQualifications:\n\nPursuing or recently completed a Bachelor's or Master's in Computer Science, Engineering, or related field and work experience.\nProficient in Python and Django.\nUnderstanding of web application architecture, REST APIs, and databases.\nStrong communication skills and a passion for building user-focused tech.\nBonus points for familiarity with Docker, AWS, PostgreSQL, and CI/CD tools.\nExtra love if you've built something live, contributed to open source, or dabbled in React Native.\n\n\n\n\nInterview Process:\n\nWe skip the Leetcode grind and get straight to what matters:\n\n\n\n\n1. Pair Programming Session – Work with one of our engineers on a real feature or bug fix.\n\n2. System Design Chat – Talk through how you'd design and scale a relevant feature.\n\n3. Behavioral Interview with CEO – A candid chat to learn about your goals, mindset, and fit.\n\n\n\n\nCompensation & Duration:\n\nDuration: 3 months\nCompensation: Industry standard, varies by experience and location\nPotential for extension into a full-time or co-op role based on performance\n\n\n\n\nHow to Apply:\n\nSend us your resume at careers@firstroundsonme.co and a short note about something cool you’ve built or why you’re hyped to join. Bonus for links to GitHub, live projects, or open-source contributions. \n\n\n\n\nMake sure that the title of your email is - Software Engineering Intern | <Full Name>\n\n\n\n\nSalary: $25-$35 per hour - Subject to change based on experience and location..."
     },
     {
-        "title": "Junior Python/Django Developer\nJunior Python/Django Developer",
-        "company": "Sophilabs",
-        "location": "Uruguay, Loreto, Peru (Remote)",
-        "link": "https://www.linkedin.com/jobs/view/4230851241",
-        "image": "https://media.licdn.com/dms/image/v2/C4E0BAQHlsSAqLG0UUg/company-logo_100_100/company-logo_100_100/0/1642794423086/sophilabs_logo?e=1753315200&v=beta&t=ZUMpleTgkjFqJQkbzfHExBW4GRhz30JCzuXiAP3dySQ"
+        "title": "Python Developer\nPython Developer",
+        "company": "Mercor",
+        "location": "United States (Remote)",
+        "link": "https://www.linkedin.com/jobs/view/4234888841",
+        "image": "https://media.licdn.com/dms/image/v2/D4E0BAQH9Gn3NF9HQTQ/company-logo_100_100/company-logo_100_100/0/1698629074329/mercor_io_logo?e=1753315200&v=beta&t=7Kxd6brEtkTs2x4Nz4llf3NXxPdg7JiBX-J0_bU_vYE",
+        "details": "About the job\n\nWe are hiring software engineers to assist a leading AI research lab with environment setup and dependency management for open-source Python projects. Your work will focus on configuring development environments, resolving dependency issues, and ensuring tests pass across various codebases. This is a remote, flexible role.\n\nJob requirements\n\nExpertise in Python, ideally at least 2 years of industry experience.\nFamiliarity with setting up development environments.\nHigh attention to detail as well as exceptional written and verbal communication skills.\n(Strongly Preferred) Lots of activity on Github, in particular lots of commits over the past year.\n\nMore details about the role\n\nPay Rate: 45-58$/hr \nThis project is focused on reviewing Python push requests in Github. It may slightly evolve with time, but strong Python competency is required anyway.\nThe project has a 2 week trial period up front to see if it’s a good mutual fit, and will extend beyond that based on performance.\nYou will be expected to commit between 20-40 hours per week. The hours are fully flexible and the opportunity is remote.\n\nRole Logistics\n\nYou’ll be paid weekly via Stripe Connect.\nYou’ll be an independent contractor, working through Mercor.\nThe advertised pay range is for US-based candidates, but we strive to keep rates competitive for all geographies.\n\nAbout Mercor\n\nOur team is based in San Francisco, CA.\nWe specialize in recruiting experts for top AI labs.\nOur investors include Benchmark, General Catalyst, Adam D’Angelo, Larry Summers, and Jack Dorsey.\n\n\n..."
     },
     {
-        "title": "Desarrollador Python Junior - Trabajo Remoto\nDesarrollador Python Junior - Trabajo Remoto with verification",
-        "company": "BairesDev",
-        "location": "Bogota, D.C., Capital District, Colombia (Remote)",
-        "link": "https://www.linkedin.com/jobs/view/4234458003",
-        "image": "https://media.licdn.com/dms/image/v2/D4E0BAQGNvQASzrdL_w/company-logo_100_100/company-logo_100_100/0/1687874736484/bairesdev_logo?e=1753315200&v=beta&t=CdkJSYv86aDWuv0TApynPnGaAj-HefdVLJrRCHLRLiU"
+        "title": "Software Development Intern - Python and Linux\nSoftware Development Intern - Python and Linux with verification",
+        "company": "Fortra",
+        "location": "United States (Remote)",
+        "link": "https://www.linkedin.com/jobs/view/4235566685",
+        "image": "https://media.licdn.com/dms/image/v2/D4E0BAQEMM1452f4Yzg/company-logo_100_100/company-logo_100_100/0/1735137975051/fortra_logo?e=1753315200&v=beta&t=FQx-ie25kAXXIAWMLOyzOz3pBzgp5P2rIFMh9EyMz9A",
+        "details": "About the job\n\nWhether you’re an experienced professional or just getting started, your contributions matter at Fortra. If you’re passionate about tackling meaningful challenges alongside talented team members committed to helping each other succeed, all while having lots of fun, we want to hear from you. We offer competitive benefits and salaries, personal and professional development opportunities, flexibility, and much more!\n\nAt Fortra, we’re breaking the attack chain. Ready to join us?\n\nThis position is responsible for working as part of a team, enhancing and maintaining existing software products. The ideal candidate is enrolled in a related software development program and has a base understanding of Python and Linux.\n\nTerm: June to August 2025\n\nWhat You'll Do\n\n\nImplement all assigned tasks. \nWill work within a team structure. \nActively participate in Agile ceremonies. \nOther duties as assigned. \n\n\nQualifications\n\n\nBe currently enrolled in a software development-related degree program. \nBase level understanding of Python and Linux. \nSome knowledge and understanding of the Agile/Scrum Project development methodology preferred. \nGood communications skills both verbal and written. \nThe ability to collaborate and work with a team are necessary. \nComfortable using simple commands on a Linux and/or macOS terminal\n\n\n3337\n\nVisit our website to learn more about why employees choose to work for Fortra. Remember to connect with us on LinkedIn.\n\nAs an EEO/Affirmative Action Employer, all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, veteran or disability status...."
     },
     {
-        "title": "Online Data Analyst\nOnline Data Analyst with verification",
-        "company": "TELUS Digital AI Data Solutions",
-        "location": "Zapopan, Jalisco, Mexico (Remote)",
-        "link": "https://www.linkedin.com/jobs/view/4235933267",
-        "image": "https://media.licdn.com/dms/image/v2/D4E0BAQHrlpRQgWjmjg/company-logo_100_100/company-logo_100_100/0/1689757718236/telusinternationalaidatasolutions_logo?e=1753315200&v=beta&t=wEjBlA1bM2opwdvSpg0LVIG4Qw1rY7yO6huriObVOI0"
+        "title": "Stagiaire en développement Web\nStagiaire en développement Web",
+        "company": "Bombellii Ventures",
+        "location": "Boston, MA (Remote)",
+        "link": "https://www.linkedin.com/jobs/view/4234700137",
+        "image": "https://media.licdn.com/dms/image/v2/D4E0BAQF8ErZI4GJ5vA/company-logo_100_100/B4EZXENNSMG0AY-/0/1742753551778?e=1753315200&v=beta&t=LvKVoBHA8Vx17fY5uBqQpshhZnMpXqAOOji-QoOY6uM",
+        "details": "About the job\n\nBombellii Ventures is a Venture Capital firm investing in early-stage founders, catalysing scalability and impact for a regenerative and equitable world. We back changemakers bringing software innovations to solve climate problems. Based in Boston, Bombellii Ventures invests at pre-seed and seed stage\n\n\n\n\nWe are seeking a motivated Web Development Intern to help build and launch our new company website. This is an exciting opportunity to gain hands-on experience and play a key role in shaping our digital presence.\n\n\n\n\nRole Overview\n\nAs a Web Development Intern, you will work closely with our team to design, develop, and launch a user-friendly, visually appealing website that reflects our brand and supports our business goals. You will be involved in all stages of the web development process, from planning and design to implementation and testing.\n\nKey Responsibilities\n\nAssist in the design, development, and launch of the company website, ensuring it is responsive and user-friendly.\nBuild new features and enhance website functionality using HTML, CSS, JavaScript, and potentially frameworks like React or PHP.\nCollaborate with team members to ensure the website aligns with our brand identity and business objectives.\nUpdate and manage website content, ensuring accuracy and consistency.\nConduct quality assurance testing, troubleshoot issues, and fix bugs.\nResearch and recommend improvements for SEO, accessibility, and web performance.\nDocument development processes and contribute to technical knowledge sharing.\nStay up to date with web development best practices and emerging technologies.\n\nDesired Skills & Qualifications\n\nCurrently enrolled in or recently graduated from a degree program in Computer Science, Web Development, New Media, or a related field.\nExperience with HTML, CSS, and JavaScript; familiarity with PHP and modern frameworks (React, Vue, Angular) is a plus.\nUnderstanding of UI/UX principles and responsive design.\nExperience with content management systems (WordPress, Wix, etc.) is a plus.\nStrong problem-solving skills and attention to detail.\nAbility to work independently and collaboratively in a team environment.\nExcellent written and verbal communication skills.\nEagerness to learn and adapt to new technologies and challenges.\n\nInternship Details\n\nDuration: [3-6 months]\nLocation: [Remote]\nSchedule: [Full-time]\nCompensation: [unpaid]\n\nHow to Apply\n\nPlease submit your resume, and (if available) links to any relevant web projects or portfolios...."
     },
     {
-        "title": "Desarrollador Python\nDesarrollador Python with verification",
-        "company": "SII Group Chile",
-        "location": "Chile (Remote)",
-        "link": "https://www.linkedin.com/jobs/view/4225357509",
-        "image": "https://media.licdn.com/dms/image/v2/D4E0BAQG4wrDgIn9CUg/company-logo_100_100/company-logo_100_100/0/1723041234279/siigroup_chile_logo?e=1753315200&v=beta&t=vCA8CoIOxfG6Gp_KIk2mBkDfygkS_H7lCj1iqNZ0WsQ"
+        "title": "Python Developer\nPython Developer with verification",
+        "company": "Lensa",
+        "location": "United States (Remote)",
+        "link": "https://www.linkedin.com/jobs/view/4234743242",
+        "image": "https://media.licdn.com/dms/image/v2/D4D0BAQEkHa-0Aki9XQ/company-logo_100_100/B4DZaKylu7GsAQ-/0/1746085240184/lensa_logo?e=1753315200&v=beta&t=bfFQ_5KH011xyAdh0DFkG3GQabElSRuUGy2vQJjb8eI",
+        "details": "About the job\n\nLensa is the leading career site for job seekers at every stage of their career. Our client, Tactibit Technologies LLC, is seeking professionals. Apply via Lensa today!\n\nTactibit Technologies provides innovative information technology, cybersecurity, and cloud support services to the Federal Government. We support some of the nation's most critical and demanding projects including satellite operations, critical infrastructure, and search and rescue. We are a diverse team of hands-on professionals dedicated to solving problems and developing innovative solutions in support of our customers' critical missions. Our success is dependent on our inclusive, collaborative environment with a shared commitment to excellence in everything we do.\n\nAbout The Python Developer Position\n\nWe are looking for a talented Developer with in-depth experience developing Python software applications that run in a cloud environment to join our team in Suitland, MD. You will work closely with government staff to provide programming support for science products, algorithm development, and scientific data processing. You will design and implement fully automated enterprise pipelines using a suite of DevOps tools in an AWS cloud environment. You will collaborate with your team to develop, deploy, and support a cloud-native platform using a variety of programming languages and cloud-native services.\n\nWe expect you to have a passion for programming and for writing clean and and efficient Python code and a desire to work with satellite data and products for the public and government. Besides, you should be able to perform well working in a team, along with developers, engineers and scientists.\n\nPython Developer Responsibilities Are\n\n\nDesign and build serverless applications and infrastructure as code in the cloud following development standards and best practices \nDevelop tools, architecture components, and APIs in support of scientific application deployment \nCollaborate with software developers, scientists, system/network administrators, and other technical experts to automate cloud deployments and manage CI/CD pipelines \nPerform code reviews, refactoring, and source code repository maintenance \nFunction in a DevOps environment supporting development, testing, operations, and troubleshooting in a mission-critical environment \nSupport security testing, hardening, and assessments to meet strict compliance and operational security requirements \nWrite clean, maintainable and efficient code \nParticipate at all stages of the development lifecycle \nImplement best practices of test-driven development, continuous integration, SCRUM, refactoring and code standards, and so on \nStay informed about relevant new technologies and drive their continuous adoption and integration into design \n\n\nPython Developer Requirements Are\n\n\n4+ years of software development experience \n2+ years of experience of using AWS cloud services \n2+ years of experience with Python \n2+ years of experience with Unix/Linux operating systems \nExperience with core AWS services including S3, CodePipeline, and Lambda \nExperience with Perl and/or shell scripting \nExperience with version control systems (preferably Git) and issue tracking software (preferably Jira) \nFamiliarity with modern DevOps principles, practices, methods, and tools. \nStrong understanding of security best practices \nStrong problem solving skills and ability to work under pressure \nBS degree in Computer Science or other related area \nMust be a US Citizen or Lawful Permanent Resident and able to pass a full background investigation to obtain a security badge to enter the applicable government facility \n\n\nDesired Qualifications Are\n\n\nExperience with Federal government environments and concepts including FedRAMP, NIST Risk Management Framework, NIST SP 800-53 security controls \nExperience with containerized workloads in the cloud using Docker or Kubernetes \nExperience with NoSQL and/or SQL \nExperience writing infrastructure as code (IaC) using CloudFormation or Terraform \nEducational background or experience in satellites and or remote sensing \nIndustry certifications such as AWS certifications, CCSP, Cloud+, Security+, and GCLD..."
     },
     {
-        "title": "Programa de Estágio da IUNEX\nPrograma de Estágio da IUNEX",
-        "company": "IUNEX Tecnologia",
-        "location": "Brazil (Remote)",
-        "link": "https://www.linkedin.com/jobs/view/4226011473",
-        "image": "https://media.licdn.com/dms/image/v2/C4E0BAQGjeAZCSHFSCA/company-logo_100_100/company-logo_100_100/0/1630584595900/iunex_solu_es_logo?e=1753315200&v=beta&t=RqmRiluecHEFjsOy35BqnLeXHdW9CmYh5cYLbdIpisc"
+        "title": "Python Developer\nPython Developer",
+        "company": "Trispoke Managed Services Pvt. Ltd.",
+        "location": "United States (Remote)",
+        "link": "https://www.linkedin.com/jobs/view/4233975947",
+        "image": "https://media.licdn.com/dms/image/v2/D4D0BAQHMcQG37sozXw/company-logo_100_100/company-logo_100_100/0/1695409906483/trispoke_managed_services_logo?e=1753315200&v=beta&t=cSV7NKqJuHxEvbt_z5an57Z2h1XF9gBDHIV87TAHyWM",
+        "details": "About the job\n\nAbout The Job\n\n\nSenior Python Developer with 7 -10 + years experience\nJavaScript\nAWS\nStrong Programming and analytical skills\nUnderstanding of Devops\n\n\nDesired Skills And Experience\n\n\nPYTHON\nJAVASCRIPT\nAWS\n\n\nhttps://www.linkedin.com/company/trispoke-managed-services-pvt-ltd/\n\nhttps://www.trispokeservices.com/jobs\n\nAnd above link for more jobs.\n\n#SeniorPythonDeveloper #AWS #JavaScript #DevOps #BackendDeveloper #SoftwareEngineering #PythonJobs #FullStackDeveloper #CloudComputing #TechJobs..."
     },
     {
-        "title": "Python Software Engineer (Backend)\nPython Software Engineer (Backend) with verification",
-        "company": "EPAM Systems",
-        "location": "Colombia (Remote)",
-        "link": "https://www.linkedin.com/jobs/view/4235532514",
-        "image": "https://media.licdn.com/dms/image/v2/D4D0BAQHBM1NmkFO9_g/company-logo_100_100/company-logo_100_100/0/1736349454702/epam_systems_logo?e=1753315200&v=beta&t=P1oSyDo6mtlpYS7cqyj_jFNB-nQtSG7XQSpFsQTmi7E"
-    },
-    {
-        "title": "Tutor de Matemática de Nivel Universitario\nTutor de Matemática de Nivel Universitario",
-        "company": "LatinHire",
-        "location": "Colombia (Remote)",
-        "link": "https://www.linkedin.com/jobs/view/4230868254",
-        "image": "https://media.licdn.com/dms/image/v2/C4D0BAQFwhzmwShxZpw/company-logo_100_100/company-logo_100_100/0/1630552129747/latinhire_com_logo?e=1753315200&v=beta&t=XPGhNGymQLGabzmtnPD5Kyz92WxXEsUsv_q8CFb5XB0"
-    },
-    {
-        "title": "Desarrollador Web Junior – HTML/CSS | ASP.NET | SQL\nDesarrollador Web Junior – HTML/CSS | ASP.NET | SQL with verification",
-        "company": "Schneider Electric",
-        "location": "Mexico (Remote)",
-        "link": "https://www.linkedin.com/jobs/view/4232815664",
-        "image": "https://media.licdn.com/dms/image/v2/C4E0BAQGNfeTPCu6Z-w/company-logo_100_100/company-logo_100_100/0/1631312208065?e=1753315200&v=beta&t=5lQmDotgYdMr6ynCYEI4d8ugm3oUmk0b4-fUnhQg8kc"
-    },
-    {
-        "title": "[Full Remote] Junior Developer Front-End (Desenvolvedor Front-End Júnior)\n[Full Remote] Junior Developer Front-End (Desenvolvedor Front-End Júnior)",
-        "company": "Joinrs Brasil",
-        "location": "Brazil (Remote)",
-        "link": "https://www.linkedin.com/jobs/view/4232768085",
-        "image": "https://media.licdn.com/dms/image/v2/D4D0BAQFlO-NNvHQI7g/company-logo_100_100/company-logo_100_100/0/1729760593179/joinrs_brasil_portugal_logo?e=1753315200&v=beta&t=I0LulcKkF_qVkMTf_JuNPb9XlP1432VK77GeDUVSQZw"
-    },
-    {
-        "title": "Student\nStudent with verification",
-        "company": "NTT DATA Europe & Latam",
-        "location": "Quito, Pichincha, Ecuador (On-site)",
-        "link": "https://www.linkedin.com/jobs/view/4231847740",
-        "image": "https://media.licdn.com/dms/image/v2/D4D0BAQHuvou30YRddw/company-logo_100_100/company-logo_100_100/0/1720712553131/ntt_data_europe_latam_logo?e=1753315200&v=beta&t=hbpd83bj5f2TUQ1KrAfHhJ-sd6Hgsm66ZNirJcdigE8"
-    },
-    {
-        "title": "Programa de Estágio - 2025\nPrograma de Estágio - 2025",
-        "company": "LINA",
-        "location": "Brazil (Remote)",
-        "link": "https://www.linkedin.com/jobs/view/4230845115",
-        "image": "https://media.licdn.com/dms/image/v2/C4D0BAQGMhtSwR3oi5Q/company-logo_100_100/company-logo_100_100/0/1669938525367?e=1753315200&v=beta&t=AkeByqfeCPft4LP_wrRD93MfgDK6C0P_cIo9WDmaT4g"
-    },
-    {
-        "title": "Practicante de Ingeniería de Sistemas en Choucair\nPracticante de Ingeniería de Sistemas en Choucair",
-        "company": "Choucair Testing S.A.",
-        "location": "Medellín, Antioquia, Colombia (Remote)",
-        "link": "https://www.linkedin.com/jobs/view/4228486703",
-        "image": "https://media.licdn.com/dms/image/v2/C560BAQHv4rt7OfaY0w/company-logo_100_100/company-logo_100_100/0/1639280514796/choucairtesting_logo?e=1753315200&v=beta&t=iStV82fiGk4bweayTfm2tlyY0f6p1zlDEP4nEBcrz0Y"
-    },
-    {
-        "title": "Consultor digitador y actualizador de datos\nConsultor digitador y actualizador de datos with verification",
-        "company": "Practia Global",
-        "location": "Peru (Remote)",
-        "link": "https://www.linkedin.com/jobs/view/4228341705",
-        "image": "https://media.licdn.com/dms/image/v2/D4D0BAQFZrh9CGAI0yg/company-logo_100_100/company-logo_100_100/0/1704193879790/practiaglobal_logo?e=1753315200&v=beta&t=MeQ6cOCWDEhNMPNNHCWozaADP5Ewgmet8P9kStcOJnY"
-    },
-    {
-        "title": "Estágio | Análise de Dados\nEstágio | Análise de Dados",
-        "company": "Simões Pires",
-        "location": "Brazil (Remote)",
-        "link": "https://www.linkedin.com/jobs/view/4222894695",
-        "image": "https://media.licdn.com/dms/image/v2/D4D0BAQFG8K29PxCOAQ/company-logo_100_100/company-logo_100_100/0/1723665496373/simoes_pires_advogados_logo?e=1753315200&v=beta&t=JPHy7NbqFpumW1xQvSpG3_qelpJfg7QDBnDLUujm-0U"
-    },
-    {
-        "title": "Software Quality Assurance Intern\nSoftware Quality Assurance Intern with verification",
-        "company": "testRigor",
-        "location": "Argentina (Remote)",
-        "link": "https://www.linkedin.com/jobs/view/4232988412",
-        "image": "https://media.licdn.com/dms/image/v2/C560BAQFTiamonSZ4Uw/company-logo_100_100/company-logo_100_100/0/1630594586926/testrigor_logo?e=1753315200&v=beta&t=ykwY1ebrjHLlJTU9lxs2sGd_q687nB8JQQqVvlI6Nu8"
-    },
-    {
-        "title": "Estudiante en práctica de Ingeniería de datos\nEstudiante en práctica de Ingeniería de datos",
-        "company": "COOMEVA",
-        "location": "Bogota, D.C., Capital District, Colombia (Remote)",
-        "link": "https://www.linkedin.com/jobs/view/4231366714",
-        "image": "https://media.licdn.com/dms/image/v2/C4E0BAQGhSgCQSoeF4w/company-logo_100_100/company-logo_100_100/0/1630631202832/coomeva_logo?e=1753315200&v=beta&t=aDF7bkBpEvBIv4mWuF6y0p79w9LAOQb3CErUXXo8LZE"
-    },
-    {
-        "title": "Virtual Assistant – Part-Time\nVirtual Assistant – Part-Time",
-        "company": "Ottomatik.io",
-        "location": "Caracas, Federal District, Venezuela (Remote)",
-        "link": "https://www.linkedin.com/jobs/view/4227313565",
-        "image": "https://media.licdn.com/dms/image/v2/C560BAQFm8AWZH3vprg/company-logo_100_100/company-logo_100_100/0/1630631892221/ottomatik_io_logo?e=1753315200&v=beta&t=9MdqxRjxDx0mw4vSpmpcMhlbJ_HhTuHWaI2boF6Tr_w"
-    },
-    {
-        "title": "Full-Stack Python Developer\nFull-Stack Python Developer",
-        "company": "InvestM Technology LLC",
-        "location": "Mexico (Remote)",
-        "link": "https://www.linkedin.com/jobs/view/4231449197",
-        "image": "https://media.licdn.com/dms/image/v2/D4E0BAQHK7iI5SgBkSQ/company-logo_100_100/company-logo_100_100/0/1711835346436/investm_technology_llc_logo?e=1753315200&v=beta&t=N4tt3kjgXQ9QhyEsgU4hcBqABKPVdT2sCytmU0SIWmw"
-    },
-    {
-        "title": "Practicante TI\nPracticante TI",
-        "company": "GEMSO",
-        "location": "Hermosillo, Sonora, Mexico (On-site)",
-        "link": "https://www.linkedin.com/jobs/view/4225078182",
-        "image": "https://media.licdn.com/dms/image/v2/D560BAQEcgJURIuGeJg/company-logo_100_100/company-logo_100_100/0/1683748432421/corporativogemso_logo?e=1753315200&v=beta&t=BrX9v6ACdGC762dwHfwg4T6WgQcIyyrbXdRmdWN91Uk"
-    },
-    {
-        "title": "Práctica área TI\nPráctica área TI",
-        "company": "Havas Chile",
-        "location": "Santiago, Santiago Metropolitan Region, Chile (Hybrid)",
-        "link": "https://www.linkedin.com/jobs/view/4236123731",
-        "image": "https://media.licdn.com/dms/image/v2/D4D0BAQFUv8whTXUg6w/company-logo_100_100/company-logo_100_100/0/1686668403635/havas_group_chile_logo?e=1753315200&v=beta&t=YA_0ByMZZHZHEilSwLiqKByTLTzPhfWBTr6EI-t-Rlc"
-    },
-    {
-        "title": "Work from Home Mexico\nWork from Home Mexico with verification",
-        "company": "TELUS Digital",
-        "location": "Azcapotzalco, Mexico City, Mexico (Remote)",
-        "link": "https://www.linkedin.com/jobs/view/4219603275",
-        "image": "https://media.licdn.com/dms/image/v2/D560BAQEo2Kofedd9rg/company-logo_100_100/company-logo_100_100/0/1719936181768/telus_international_logo?e=1753315200&v=beta&t=GQnSNrgC5vBUp7Wui83DldT_1hi_VAYTg-d3OYKZPio"
-    },
-    {
-        "title": "Desenvolvedor(a) Back-end (Python)\nDesenvolvedor(a) Back-end (Python)",
-        "company": "IPM Sistemas",
-        "location": "Florianópolis, Santa Catarina, Brazil (On-site)",
-        "link": "https://www.linkedin.com/jobs/view/4221493162",
-        "image": "https://media.licdn.com/dms/image/v2/D4D0BAQEo2yQ-tVa-Mw/company-logo_100_100/company-logo_100_100/0/1725049147290/ipmsistemas_logo?e=1753315200&v=beta&t=mH4lWzK96sOWXv13tUyammOgN_C9FJgUt-H0_Hjukr4"
-    },
-    {
-        "title": "Analista Dados JR\nAnalista Dados JR with verification",
-        "company": "PicPay",
-        "location": "São Paulo, São Paulo, Brazil (Remote)",
-        "link": "https://www.linkedin.com/jobs/view/4233617438",
-        "image": "https://media.licdn.com/dms/image/v2/C560BAQHuoq0NSYVt-g/company-logo_100_100/company-logo_100_100/0/1658520019837/picpay_logo?e=1753315200&v=beta&t=_NrZcQJBrCLPbON5Ts5JurMscNMhgbUX6nqhNnfZoaU"
-    },
-    {
-        "title": "Programador de Sistemas junior\nProgramador de Sistemas junior",
-        "company": "MOVITECNICA",
-        "location": "Lima, Peru (On-site)",
-        "link": "https://www.linkedin.com/jobs/view/4231547180",
-        "image": "https://media.licdn.com/dms/image/v2/D4E0BAQGOdctCBCyX4w/company-logo_100_100/company-logo_100_100/0/1684866426579/movitecnica_sa_logo?e=1753315200&v=beta&t=S9TmcA00fFGygxL3uXorPSQi_51la68ypl37fSfXHk4"
+        "title": "Python Developer\nPython Developer",
+        "company": "Falcon Smart IT (FalconSmartIT)",
+        "location": "United States (Remote)",
+        "link": "https://www.linkedin.com/jobs/view/4233938315",
+        "image": "https://media.licdn.com/dms/image/v2/C4D0BAQFs181Tff7n_A/company-logo_100_100/company-logo_100_100/0/1630553808876/falconsmartit_logo?e=1753315200&v=beta&t=K8HTnqBWTiNIfOa4tFv_8UoE3kwwly4fiSBI3zpFkuw",
+        "details": "About the job\n\nJob Title: Python Developer\n\nLocation:100% Remote\n\nJob Type: Contract\n\n\n\n\nJob Description:\n\nMust be:\n\nA very senior Python Developer\nWith Azure AI Services experience..."
     }
 ]
