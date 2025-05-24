@@ -1,4 +1,4 @@
-import os, json
+import os, json, sys
 from playwright.sync_api import sync_playwright
 
 user_data_dir = os.path.expanduser("~/.playwright_profile/chrome")
@@ -12,8 +12,12 @@ with sync_playwright() as p:
     )
     page.wait_for_timeout(2000)
 
-    search_prompt = input("Enter Title, Skill or Company:\t")
-    location_prompt = input("Enter the area to search:\t")
+    # search_prompt = input("Enter Title, Skill or Company:\t")
+    # location_prompt = input("Enter the area to search:\t")
+
+    search_prompt = sys.argv[1]
+    location_prompt = sys.argv[2]
+
     page.wait_for_timeout(1000)
 
     search_input = page.locator("input[aria-label='Search by title, skill, or company']:not([disabled])")
@@ -27,8 +31,8 @@ with sync_playwright() as p:
     location_input.fill(location_prompt)
     location_input.press("Enter")
 
-    page.wait_for_selector("ul.EyBJWAsJeZqdckibssVhhKWmJliNWZofyFG li[data-occludable-job-id]")
-    job_list_selector = "ul.EyBJWAsJeZqdckibssVhhKWmJliNWZofyFG"
+    page.wait_for_selector("ul.MsTJsMTQfQUlbGnfxDFzvlYAJJJBgpDLM li[data-occludable-job-id]")
+    job_list_selector = "ul.MsTJsMTQfQUlbGnfxDFzvlYAJJJBgpDLM"
 
     previous_count = 0
     scroll_attempts = 0
@@ -47,18 +51,20 @@ with sync_playwright() as p:
 
     print(f"Found: {current_count} Jobs")
 
-    jobs = page.locator("ul.EyBJWAsJeZqdckibssVhhKWmJliNWZofyFG li[data-occludable-job-id]")
+    jobs = page.locator("ul.MsTJsMTQfQUlbGnfxDFzvlYAJJJBgpDLM li[data-occludable-job-id]")
 
     scrapped_jobs = []
 
-    for i in range(current_count):
+    for i in range(4):
         print(f"Scraping {i+1}/{current_count} jobs")
         job = jobs.nth(i)
+        page.wait_for_timeout(500)
         job.scroll_into_view_if_needed()
         page.wait_for_timeout(500)
-        title = job.locator(".artdeco-entity-lockup__title").inner_text()
+        title = job.locator(".artdeco-entity-lockup__title stro").inner_text()
         company = job.locator(".artdeco-entity-lockup__subtitle").inner_text()
         location = job.locator(".artdeco-entity-lockup__caption").inner_text()
+        page.wait_for_timeout(500)
         image = job.locator(".job-card-list__logo img").get_attribute('src')
         link_element = job.locator(".artdeco-entity-lockup__title a")
 
