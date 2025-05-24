@@ -74,6 +74,7 @@ ngrok http 8000 # For linux
 
 # For windows go search how.
 ```
+---
 
 ## 💬 Format
 ### WhatsApp Message
@@ -86,6 +87,5 @@ ngrok http 8000 # For linux
 📍 _New York, NY_ <br>
 🔗 https://linkedin.com/jobs/view/...
 
-
-
+---
 
