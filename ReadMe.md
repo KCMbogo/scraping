@@ -18,12 +18,12 @@ This is a Python-based automation tool that lets you **scrape jobs from LinkedIn
 
 ## 📦 Project Structure
 
-scrapping/
-├── job_scrapping/ 
-        ├── app.py # FastApi endpoint to call the job_scripting.py module
-        ├── job_scrapping.py # PlayWright Scraping logic
-├── scraped/jobs.json # Scraped job results
-├── requirements.txt
+scrapping/ <br>
+├── job_scrapping/ <br>
+        ├── app.py # FastApi endpoint to call the job_scripting.py module <br>
+        ├── job_scrapping.py # PlayWright Scraping logic <br>
+├── scraped/jobs.json # Scraped job results <br>
+├── requirements.txt <br>
 └── README.md
 
 
@@ -31,7 +31,7 @@ scrapping/
 
 ## 🚀 How It Works
 
-1. Send a WhatsApp message with a keyword and location (e.g. `Python, America`) to your Twilio Sandbox number.
+1. Send a WhatsApp message with a keyword and location (e.g. `Python Developer, Tanzania`) to your Twilio Sandbox number.
 2. The FastAPI server receives the message.
 3. The scraper fetches job listings from LinkedIn.
 4. The best jobs are sent back to your WhatsApp in a clean, structured format with images.
@@ -59,7 +59,7 @@ playwright install # to install the browser engines needed by playwright
 ### 3. Setup .env
 TWILIO_ACCOUNT_SID=your_sid
 TWILIO_AUTH_TOKEN=your_token
-> NOTE: You need to create a twilio account to get these credentials: [text](https://www.twilio.com/)
+> NOTE: You need to create a twilio account to get these credentials: [Twilio](https://www.twilio.com/)
 
 ### 4. Run the server
 ```bash
@@ -67,10 +67,10 @@ uvicorn job_scrapping.job_scrapping:app --host 127.0.0.1 --port 8000
 ```
 
 ### 5. Make available to Internet using Ngrok
-> Make sure you install ngrok based on you operating system: [text](https://ngrok.com/downloads/)
+> Make sure you install ngrok based on you operating system: [Ngrok](https://ngrok.com/downloads/)
 ```bash
-# For linux
-ngrok http 8000
+ngrok http 8000 # For linux
+
 # For windows go search how.
 ```
 
@@ -79,10 +79,10 @@ ngrok http 8000
 > Python Developer, Tanzania
 
 ### Message Response
-🖼 Company logo shown if available.
-*🔹 Python Developer*
-*🏢 Google*
-📍 _New York, NY_
+🖼 Company logo shown if available. <br>
+*🔹 Python Developer* <br>
+*🏢 Google* <br>
+📍 _New York, NY_ <br>
 🔗 https://linkedin.com/jobs/view/...
 
 
