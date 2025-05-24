@@ -44,7 +44,7 @@ scrapping/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/KCMbogo/scrapping.git
+git clone https://github.com/KCMbogo/scraping.git
 cd scrapping
 ```
 
