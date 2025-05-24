@@ -17,14 +17,15 @@ This is a Python-based automation tool that lets you **scrape jobs from LinkedIn
 ---
 
 ## 📦 Project Structure
-
-scrapping/ 
-├── job_scrapping/ 
-|   ├── app.py # FastApi endpoint to call the job_scripting.py module 
-|   ├── job_scrapping.py # PlayWright Scraping logic 
-├── scraped/jobs.json # Scraped job results 
-├── requirements.txt 
+```
+scrapping/
+├── job_scrapping/
+│   ├── app.py               # FastAPI endpoint to call the job_scraping.py module
+│   ├── job_scraping.py      # Playwright scraping logic
+├── scraped/jobs.json        # Scraped job results
+├── requirements.txt
 └── README.md
+```
 
 
 ---
