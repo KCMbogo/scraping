@@ -1,4 +1,4 @@
-# 💼 LinkedIn Job Scraper & WhatsApp Bot
+# 💼 Job Scraper & WhatsApp Bot
 
 This is a Python-based automation tool that lets you **scrape jobs from LinkedIn** based on a keyword and location, and then **sends the job listings to your WhatsApp** using Twilio's WhatsApp API.
 
@@ -18,10 +18,10 @@ This is a Python-based automation tool that lets you **scrape jobs from LinkedIn
 
 ## 📦 Project Structure
 
-linkedin_jobs_bot/
-├── main.py # FastAPI server
-├── scraper.py # LinkedIn job scraper (Playwright)
-├── twilio_utils.py # WhatsApp message sender using Twilio
+scrapping/
+├── job_scrapping/ 
+        ├── app.py # FastApi endpoint to call the job_scripting.py module
+        ├── job_scrapping.py # PlayWright Scraping logic
 ├── scraped/jobs.json # Scraped job results
 ├── requirements.txt
 └── README.md
@@ -34,7 +34,7 @@ linkedin_jobs_bot/
 1. Send a WhatsApp message with a keyword and location (e.g. `Python, America`) to your Twilio Sandbox number.
 2. The FastAPI server receives the message.
 3. The scraper fetches job listings from LinkedIn.
-4. The best jobs are sent back to your WhatsApp in a clean, structured format with optional images.
+4. The best jobs are sent back to your WhatsApp in a clean, structured format with images.
 
 ---
 
@@ -45,13 +45,46 @@ linkedin_jobs_bot/
 ```bash
 git clone https://github.com/KCMbogo/scrapping.git
 cd scrapping
+```
 
 ### 2. Create virtual environment and install dependencies
+```bash
+python -m venv .venv
+source .venv/bin/activate # for linux or
+.\.venv\Scripts\activate # for windows
 pip install -r requirements.txt
-playwright install
+playwright install # to install the browser engines needed by playwright
+```
 
 ### 3. Setup .env
 TWILIO_ACCOUNT_SID=your_sid
 TWILIO_AUTH_TOKEN=your_token
+> NOTE: You need to create a twilio account to get these credentials: [text](https://www.twilio.com/)
+
+### 4. Run the server
+```bash
+uvicorn job_scrapping.job_scrapping:app --host 127.0.0.1 --port 8000
+```
+
+### 5. Make available to Internet using Ngrok
+> Make sure you install ngrok based on you operating system: [text](https://ngrok.com/downloads/)
+```bash
+# For linux
+ngrok http 8000
+# For windows go search how.
+```
+
+## 💬 Format
+### WhatsApp Message
+> Python Developer, Tanzania
+
+### Message Response
+🖼 Company logo shown if available.
+*🔹 Python Developer*
+*🏢 Google*
+📍 _New York, NY_
+🔗 https://linkedin.com/jobs/view/...
+
+
 
 
